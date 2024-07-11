@@ -1,7 +1,6 @@
 # Automating Excel with Python using openpyxl
 
-Welcome to the GitHub repository for automating Excel tasks using Python and the openpyxl library. 
-
+Welcome to the GitHub repository for automating Excel tasks using Python and the openpyxl library.<br> 
 This repository contains examples and guides to help you leverage openpyxl for efficient and effective Excel file manipulation.
 
 ## Table of Contents
@@ -66,11 +65,9 @@ Explore advanced features such as charts, images, and pivot tables.
 openpyxl is a versatile library that significantly enhances your ability to work with Excel files programmatically. By integrating openpyxl into your Python projects, you can automate a wide range of Excel tasks, improve efficiency, and maintain data integrity. This repository aims to provide you with the knowledge and tools to get started with openpyxl and explore its full potential.
 
 ## Resources
-openpyxl Documentation
-
-Python.org
-
-Pandas Documentation
+openpyxl Documentation<br>
+Python.org<br>
+Pandas Documentation<br>
 
 Feel free to explore the code examples provided in this repository and adapt them to your specific use cases. Contributions and feedback are welcome!
 
